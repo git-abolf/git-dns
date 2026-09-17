@@ -1,0 +1,4 @@
+# Buildozer/python-for-android installs Python packages declared in buildozer.spec.
+# Keep Android dependencies pure-Python where possible.
+kivy>=2.3,<3
+dnspython>=2.6,<3

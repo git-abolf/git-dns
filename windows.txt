@@ -1,0 +1,7 @@
+-r base.txt
+customtkinter>=5.2,<6
+Pillow>=10,<12
+pystray>=0.19,<1
+keyring>=25,<26
+openai>=1.0,<3
+pyinstaller>=6,<7
